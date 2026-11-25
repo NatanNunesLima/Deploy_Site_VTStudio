@@ -1,5 +1,5 @@
 import { useLocation } from 'react-router-dom'
-import dados from '../assets/imgs/dados-rpg.jpg'
+import dados from '../assets/imgs/dados-RPG.jpg'
 import board from '../assets/imgs/board-dados.jpg'
 
 function Download() {
