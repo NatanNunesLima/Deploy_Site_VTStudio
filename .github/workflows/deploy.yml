@@ -15,7 +15,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  APP_DIR: web/react_vtstudio
+  APP_DIR: web/react-vtstudio
 
 jobs:
   build:
